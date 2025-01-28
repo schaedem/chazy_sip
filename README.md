@@ -7,7 +7,7 @@
 16S rRNA sequence data are available in the NCBI Short Read Archives (BioProject PRJNA1170979).
 
 ## Research objectives
-- Determine the impact of a 42 year legacy of no-till or moldboard plow till on bacterial carbon assimilation
+- Determine the impact of a 42 year legacy of no-till or moldboard plow tillage on bacterial carbon assimilation
 - Investigate the role of divergent life histories resulting from management legacy on carbon dynamics
 
 ## Methodology
