@@ -5,7 +5,7 @@
 
 ## Research objectives
 - Determine the impact of a 42 year legacy of no-till or moldboard plow tillage on bacterial carbon assimilation
-- Investigate the role of divergent life histories resulting from management legacy on carbon dynamics
+- Investigate the role of divergent life histories resulting from management legacy in contributing to carbon dynamics
 
 ## Methodology
 - Microcosm experiments involved two carbon isotopic labeling treatments and two soil legacies:
