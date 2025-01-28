@@ -13,7 +13,7 @@
 ## Methodology
 - Microcosm experiments involved two carbon isotopic labeling treatments and two soil legacies:
   - 12C-xylose + 13C-cellulose / 13C-xylose + 12C-cellulose
-  - No-till biomass harvested (NTH) and plow-till biomass harvested (PTH)
+  - No-till biomass harvested (NTH) / plow-till biomass harvested (PTH)
 - Isopycnic centrifugation and density fractionation was performed on genomic DNA extracted from microcosm soil samples
 - Amplicon sequencing of bacterial 16S rRNA was conducted, followed by multiple-window-high-resolution-stable-isotope-probing (MW-HR-SIP) to identify isotopically labeled taxa
 
