@@ -30,3 +30,14 @@
   - R data object
 
 ## Scripts
+- Figures2_3.R
+  - Carbon mineralization rates and cumulative mineralization
+- Figure4.R
+  - Relative abundance of bacterial communities in microcosms
+  - Beta-diversity shifts in response to carbon addition
+- Figure5.R
+  - Incorporator venn diagram (detected vs labeled)
+- Figure6.R
+  - Carbon assimilation dynamics of top incorporator taxa 
+- Figure7.R
+  - Incorporator growth responses by tillage regime  
