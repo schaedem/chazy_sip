@@ -18,7 +18,11 @@
 16S rRNA sequence data are available in the NCBI Short Read Archives (BioProject PRJNA1170979).
 
 ## Data files
-
+- c_min_df.csv
+- dna_yield.csv
+- seq_l2fc.csv
+- incorp_bulk_rare_abund.RDS
+- - R data object
 
 ## Metadata files
 
