@@ -19,12 +19,14 @@
 
 ## Data files
 - c_min_df.csv
+  - Carbon mineralization data from GC-MS analayis, including respiration of 12C/13C xylose and cellulose 
 - dna_yield.csv
+  - DNA yield data for microcosm cummunities, measured with Picogreen 
 - seq_l2fc.csv
+  - HTSSIP results identifying taxa with significant shifts in buoyant density due to incorporation of isotope label
 - incorp_bulk_rare_abund.RDS
+  - Incorporator taxa present in rarefied microcosm communities
+  - Includes associated metadata (taxonomy, rrn, maximum log2-foldchange, latency) for each incorporator
   - R data object
-
-## Metadata files
-
 
 ## Scripts
