@@ -22,7 +22,7 @@
 - dna_yield.csv
 - seq_l2fc.csv
 - incorp_bulk_rare_abund.RDS
-- - R data object
+ - R data object
 
 ## Metadata files
 
