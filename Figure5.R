@@ -1,4 +1,3 @@
-.libPaths("/home/rstudio/packages")
 library(HTSSIP)
 library(DESeq2)
 library(tidyverse)
@@ -85,10 +84,5 @@ label_plot <- label_plot + ggtitle("Labeling") +
   theme(plot.title = element_text(hjust = 0.5,size=15, face="bold"),
         plot.margin = unit(c(1,1,1,1), "cm"))
 
-label_plot
-
 
 venn_plots <- cowplot::plot_grid(detection_plot, label_plot, nrow=2)
-venn_plots
-
-#ggsave("venn_plots.png", dpi=300, height = 10, width=10, units = "in")
