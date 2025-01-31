@@ -239,7 +239,8 @@ vec_df <- bray_nmds %>%
 pal2 <- c ("#F7C0B9","#C2E7F0","#EA6856","#6AC6DB","#F3A398","#A5DCE9",
            "#E64B35","#4DBBD5","#EE8577","#87D1E2","#FCDEDA","#E0F3F7","#E64B35", "#4DBBD5")
 greyscale <- c("#F3F3F3", "#DEDEDE", "#CCCCCC", "#999999", "#666666", "#222222")
-#dummy plot for grey scale
+
+#dummy plot for grey scale legend
 plot <- ggplot(bray_nmds, aes(x=NMDS1, y=NMDS1, fill=day, color=day)) +
   geom_point(shape=15, size=10) +
   scale_color_manual(values=greyscale) +
