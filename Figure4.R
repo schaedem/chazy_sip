@@ -1,4 +1,3 @@
-.libPaths("/home/rstudio/packages")
 library(tidyverse)
 library(vegan)
 library(phyloseq)
@@ -16,6 +15,8 @@ library(Maaslin2)
 library(ggtext)
 setwd('/home/rstudio/files')
 
+#phyloseq object containing rarefied taxa from bulk micocosm communities
+#raw sequence data is availablee on NCBI SRA
 rare.bulk.sip.phylo <-  readRDS("chazy_bulk_rare_phylo.RDS")
 
 count_seqs <- function(pool){
